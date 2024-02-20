@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
 <h3 align="center">I am a computer systems engineering student</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Machine Learning Scientist with Python**
 
 - 📫 How to reach me **ahmed2003sabbah@gmail.com**
 
